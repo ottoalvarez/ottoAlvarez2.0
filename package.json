@@ -1,0 +1,20 @@
+{
+    "name": "ottoalvarez2.0",
+    "version": "1.0.0",
+    "description": "Website OttoAlvarez (Gastronomía e IT)",
+    "main": "index.js",
+    "source": "src/index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/clg-helloworld/ottoAlvarez2.0.git"
+    },
+    "author": "ofrehley",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/clg-helloworld/ottoAlvarez2.0/issues"
+    },
+    "homepage": "https://github.com/clg-helloworld/ottoAlvarez2.0#readme"
+}
