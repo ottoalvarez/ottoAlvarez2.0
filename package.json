@@ -2,10 +2,9 @@
     "name": "ottoalvarez2.0",
     "version": "1.0.0",
     "description": "Website OttoAlvarez (Gastronomía e IT)",
-    "main": "index.js",
-    "source": "src/index.html",
+    "source": "./src/index.html",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "dev": "parcel ./src/index.html"
     },
     "repository": {
         "type": "git",
@@ -16,5 +15,11 @@
     "bugs": {
         "url": "https://github.com/clg-helloworld/ottoAlvarez2.0/issues"
     },
-    "homepage": "https://github.com/clg-helloworld/ottoAlvarez2.0#readme"
+    "homepage": "https://github.com/clg-helloworld/ottoAlvarez2.0#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.4.2",
+        "parcel": "^2.3.1",
+        "postcss": "^8.4.6",
+        "tailwindcss": "^3.0.21"
+    }
 }

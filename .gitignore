@@ -1,3 +1,8 @@
+# Custom gitIgnore
+# Dist folder building by parcel
+.parcel-cache
+
+# NodeTemplate
 # Logs
 logs
 *.log

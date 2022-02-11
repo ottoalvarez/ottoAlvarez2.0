@@ -7,4 +7,7 @@
 
 ```js
   const keyWords = ['web site','blog','vlog']
+  const config = {
+    styles:['sass','tailwindCss3.0']
+  }
 ```
